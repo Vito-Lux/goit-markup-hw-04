@@ -629,7 +629,6 @@ button {
 }
 
 .footer__address {
-  padding-bottom: 10px;
   font-size: 14px;
   line-height: calc(100% + 10px);
   font-style: normal;
@@ -637,7 +636,7 @@ button {
 }
 
 .footer-contacts__item {
-  padding-bottom: 10px;
+  padding-top: 10px;
   font-size: 14px;
   line-height: calc(100% + 10px);
   letter-spacing: 0.02em;
@@ -647,7 +646,6 @@ button {
 
 .footer-contacts__item:last-child {
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 .footer-contacts__item a:hover,
